@@ -1,0 +1,81 @@
+
+/* Name: Arshpreet Kaur, Student Number: 8976131 */
+
+html {
+    font-size: 17px;
+    line-height: 1.6;
+    font-family: 'Verdana', sans-serif;
+    background-color: #92eb65;
+}
+
+body {
+    max-width: 1150px;
+    margin: 10px auto;
+    padding: 2.5rem;
+    font-family: 'Verdana', sans-serif;
+    color: #171614;
+    background-color: #9fbac0;
+}
+
+h1, h2 {
+    font-weight: 700;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-size: 1.9rem;
+}
+
+main, aside {
+    margin: 1.2rem 0;
+}
+
+main {
+    float: left;
+    width: 68%;
+}
+
+aside {
+    float: right;
+    width: 28%;
+}
+
+footer {
+    clear: both;
+    padding: 1.2rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    background: linear-gradient(to right, #ff9a8b, #ff6a88);
+}
+
+blockquote {
+    margin: 1.2rem 0;
+    padding: 1.2rem;
+    border-left: 6px solid #ee7ef0;
+    background-color: #daa7d8;
+    font-style: italic;
+}
+
+figure {
+    border-top: #898787;
+    border-radius: 7px;
+    border-style: double;
+    padding:9px;
+}
+
+video{
+    border-top: #898787;
+    border-radius: 2px;
+    border-style: double;
+    padding:9px;
+}
+
+#external-link li{
+    text-decoration: dotted;
+    font-style: italic;
+    color: aliceblue;
+}
